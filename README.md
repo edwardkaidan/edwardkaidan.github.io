@@ -1,2 +1,2 @@
-# edwardkaidan.github.io
-https://github.com/edwardkaidan/edwardkaidan.github.io/upload/
+# Don't panic it's my first steps in html and css
+
